@@ -1,0 +1,43 @@
+h1 {
+    color:grey;
+}
+
+
+.title {
+    color:green;
+}
+
+nav { 
+    float: right;
+    margin-top: 20px;
+
+   
+}
+
+nav ul {
+list-style: none;
+}
+
+
+.container {
+    
+widows: 100%;
+margin: 0 auto;
+
+}
+
+#logo {
+    float:left;
+}
+nav a { 
+    
+    display: inline-block;
+    
+
+    background-color: grey;
+
+}
+ 
+
+
+
