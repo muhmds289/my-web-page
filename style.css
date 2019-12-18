@@ -1,0 +1,64 @@
+h1 {
+     color:teal; 
+   
+}
+#logo {
+border-top:white;
+float:left;
+}
+
+
+nav { 
+   
+    background-color:green;
+    
+    display: inline-block;
+    width: 100%;
+    margin-left: auto;
+}
+.headtag {
+border-bottom: bottom 20px solid grey;
+}
+
+ul {
+    float: right;
+    list-style: none;
+    padding: 0px;   
+}
+
+.navlinks { 
+    
+    float: left;
+    margin-right:5px;
+}
+.id {
+background-color: honeydew;
+border: 10pax;
+}
+section {
+    background-color: gray;
+}
+header {
+
+        background:none;
+        height: 20px;
+        text-align-last:left;
+        line-height: 56px;
+        border-bottom:#cccccc;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        max-resolution: right 0;;
+        margin-top:0px;
+        color:whitesmoke;
+    }
+.main-contain img { 
+    display:inline-block;
+}
+.body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    background-color: #ffffff;
+    border: 5px solid #dddddd;
+    line-height: 10px;
+}
